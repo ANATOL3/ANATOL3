@@ -3,7 +3,7 @@
 ```javascript
 console.log("A propos de moi");
 ```
-## Hello You, I'm ANATOL3
+## Hello World, I'm ANATOL3
 Etudiant en architecture, je me suis découvert une passion pour l'informatique. 
 
 Mes hobbies sont le développement web, l'hebergement de serveurs, la 3D, le design, les LEGO, les jeux vidéos et l'architecture.
