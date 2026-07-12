@@ -1,4 +1,4 @@
-![Bannière](Bannière.)
+<!-- ![Bannière](Bannière.png) -->
 
 ```javascript
 console.log("A propos de moi");
