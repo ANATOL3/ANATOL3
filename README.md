@@ -23,6 +23,7 @@ Autodidacte, j'apprends beaucoup de choses par moi-même par le biais de recherc
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=flat&logo=adobeillustrator&logoColor=white)
 ![CapCut](https://img.shields.io/badge/CapCut-000000?style=flat&logo=capcut&logoColor=white)
+![Stop Motion Studio Pro](https://img.shields.io/badge/Stop_Motion_Studio_Pro-F527EE?style=flat&logo=camcorder&logoColor=white)
 
 
 ## Technologies que j'utilise :
